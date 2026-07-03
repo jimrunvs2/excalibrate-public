@@ -19,10 +19,10 @@ Mine → Decide → Rainmaker → Command
 ## Public Demos
 Coming soon.
 
-• Excalibrate MVP V2 Demo
-• Decision Intelligence Engine Demo
-• Architecture Walkthrough
-• Case Study Showcases
+1. Excalibrate MVP V2 Demo
+2. Decision Intelligence Engine Demo
+3. Architecture Walkthrough
+4. Case Study Showcases
 
 ## Architecture Overviews
 Coming soon.
@@ -30,4 +30,4 @@ Coming soon.
 ## Strategic Vision
 Build intelligent systems that improve decision quality, reduce risk, preserve value, and create measurable impact.
 
-Secure. Scalable. Intelligent. Human-Guided.
+Secure. Scalable. Intelligent. Human-Guided. Impact-Driven.
