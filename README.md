@@ -28,7 +28,37 @@ Coming soon:
 4. Case Study Showcases
 
 ## Architecture Overviews
-Architecture diagrams and system flow visualizations coming soon.
+## Architecture Overviews
+
+### Core Ecosystem Architecture
+
+```text
+┌──────────────────────────┐
+│      USER LAYER          │
+│ Individuals / Business   │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│   MINE YOUR BUSINESS     │
+│ Opportunity Discovery    │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│ EXCALIBRATE DECISION     │
+│ ENGINE                   │
+│ Verify • Analyze • Decide│
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│ RAINMAKER CLOUD          │
+│ AI Routing / Security    │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│ MOTHERSHIP COMMAND       │
+│ Strategic Intelligence   │
+└──────────────────────────┘
+```
 
 ## Strategic Vision
 Build intelligent systems that improve decision quality, reduce risk, preserve value, and create measurable impact.
