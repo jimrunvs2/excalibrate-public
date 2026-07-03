@@ -1,5 +1,5 @@
 # Excalibrate Public
-Public showcase of the Excalibrate ecosystem, architecture, and decision intelligence infrastructure.
+Public showcase of the Excalibrate ecosystem, decision intelligence infrastructure, and strategic architecture.
 
 Decision Intelligence. Evidence Verification. Strategic Clarity.
 
@@ -29,9 +29,9 @@ Coming soon:
 
 ## Architecture Overviews
 
-High-level architecture diagrams and system flow visualizations will be released selectively for strategic partners, enterprise clients, and approved collaborations.
+High-level architecture diagrams and system flow visualizations will be shared selectively with strategic partners, enterprise clients, and approved collaborators.
 
-Public architecture previews are intentionally limited to protect proprietary infrastructure and intellectual property.
+Public architecture previews are intentionally limited to protect proprietary infrastructure, system design, and intellectual property.
 
 ## Strategic Vision
 Build intelligent systems that improve decision quality, reduce risk, preserve value, and create measurable impact.
