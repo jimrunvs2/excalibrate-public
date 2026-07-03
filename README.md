@@ -31,6 +31,7 @@ Coming soon:
 ## Architecture Overviews
 
 ### Core Ecosystem Architecture
+This diagram illustrates the core architecture of the Excalibrate ecosystem, showing how users move from opportunity discovery through decision intelligence, infrastructure orchestration, and strategic command.
 
 ```text
 ┌──────────────────────────┐
