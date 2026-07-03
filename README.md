@@ -1,10 +1,11 @@
 # Excalibrate Public
+Public showcase of the Excalibrate ecosystem, architecture, and decision intelligence platform.
 
 Decision Intelligence. Evidence Verification. Strategic Clarity.
 
 Welcome to the public showcase for the Excalibrate ecosystem.
 
-Excalibrate helps individuals, businesses, and organizations make better decisions through evidence verification, structured reasoning, impact measurement, and AI-assisted analysis.
+Excalibrate helps individuals, businesses, and organizations make smarter, evidence-backed decisions through structured reasoning, impact measurement, and AI-assisted analysis.
 
 ## Public Ecosystem Overview
 
@@ -18,10 +19,15 @@ Mine → Decide → Rainmaker → Command
 ## Public Demos
 Coming soon.
 
+• Excalibrate MVP V2 Demo
+• Decision Intelligence Engine Demo
+• Architecture Walkthrough
+• Case Study Showcases
+
 ## Architecture Overviews
 Coming soon.
 
 ## Strategic Vision
 Build intelligent systems that improve decision quality, reduce risk, preserve value, and create measurable impact.
 
-Secure. Scalable. Intelligent. Human-centered.
+Secure. Scalable. Intelligent. Human-Guided.
