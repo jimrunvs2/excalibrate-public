@@ -17,15 +17,18 @@ Mine → Decide → Rainmaker → Command
 - Mothership → Executive Command Platform & Strategic Intelligence
 
 ## Public Demos
-Coming soon.
+Coming soon:
 
 1. Excalibrate MVP V2 Demo
+
 2. Decision Intelligence Engine Demo
+
 3. Architecture Walkthrough
+
 4. Case Study Showcases
 
 ## Architecture Overviews
-Coming soon.
+Architecture diagrams and system flow visualizations coming soon.
 
 ## Strategic Vision
 Build intelligent systems that improve decision quality, reduce risk, preserve value, and create measurable impact.
